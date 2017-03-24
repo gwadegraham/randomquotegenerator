@@ -1,0 +1,11 @@
+body{
+  background-image: url("bamboo.jpg");
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center;
+  background-size: 100% 100%;
+}
+div{
+  background: rgb(255, 255, 255); /* fallback color */
+  background: rgba(255, 255, 255, 0.7);
+}
